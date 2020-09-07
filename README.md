@@ -6,6 +6,18 @@ Next.js template project.
 
 ## 開発
 
+### 導入済みライブラリ
+
+- next
+- typescript
+- redux
+- redux-saga
+- material-ui
+- sass
+- jest
+- enzyme
+- eslint
+
 ### 開発環境
 
 開発想定環境は以下の通りです。
