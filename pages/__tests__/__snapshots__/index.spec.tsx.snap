@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home Home snapshot 1`] = `
+<div
+  className="container"
+>
+  <h1>
+    fanfare
+  </h1>
+</div>
+`;
